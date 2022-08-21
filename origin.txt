@@ -1,0 +1,16 @@
+Uri: https://niksdev.ru/
+File Name: C:\Users\Neo\Desktop\web\niksdev.ru\index.htm
+Content Type: text/html
+
+Uri: https://niksdev.ru/favicon.ico
+File Name: C:\Users\Neo\Desktop\web\niksdev.ru\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://niksdev.ru/assets/audio/music.mp3
+File Name: C:\Users\Neo\Desktop\web\niksdev.ru\assets\audio\music.mp3
+Content Type: audio/mpeg
+
+Uri: https://niksdev.ru/assets/js/page.js
+File Name: C:\Users\Neo\Desktop\web\niksdev.ru\assets\js\page.js
+Content Type: application/javascript
+
